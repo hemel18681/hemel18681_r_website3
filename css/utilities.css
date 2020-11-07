@@ -96,6 +96,11 @@
     text-align: center;
 }
 
+
+/* Alert */
+
+.alert {}
+
 .flex {
     display: flex;
     justify-content: center;
